@@ -65,7 +65,7 @@ As estruturas foram implementadas tomando como referência o livro **Introductio
 
 ---
 
-## ⏱ Fundamentação / Arquitetura
+## ⏱ Fundamentação
 
 Cada trabalho consiste na implementação de uma estrutura de dados clássica, com uma interface de linha de comando simples: o programa lê operações da entrada padrão (`stdin`) no formato `<operação> <chave>` e produz a saída esperada ao final.
 
