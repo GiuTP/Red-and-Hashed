@@ -12,9 +12,9 @@
   <p align="center">
     Implementações de Estrutura de Dados clássicas em C — trabalhos da disciplina <strong>Algoritmos e Estrutura de Dados III (CI1057)</strong> na UFPR.
     <br />
-    <a href="https://github.com/GiuTP/Algoritmos-Estrutura-De-Dados-III/issues/new?labels=bug">Reportar Bug</a>
+    <a href="https://github.com/GiuTP/Red-and-Hashed/issues/new?labels=bug">Reportar Bug</a>
     &middot;
-    <a href="https://github.com/GiuTP/Algoritmos-Estrutura-De-Dados-III/issues/new?labels=enhancement">Sugerir Melhoria</a>
+    <a href="https://github.com/GiuTP/Red-and-Hashed/issues/new?labels=enhancement">Sugerir Melhoria</a>
   </p>
 </div>
 
@@ -99,7 +99,7 @@ Cada trabalho consiste na implementação de uma estrutura de dados clássica, c
 ## 📁 Estrutura do Projeto
 
 ```
-Algoritmos-Estrutura-De-Dados-III/
+Red-and-Hashed/
 ├── red_black_tree/          Árvore Red-Black
 │   ├── rb.h                 interface e definições
 │   ├── rb.c                 implementação das operações
@@ -135,8 +135,8 @@ sudo apt install build-essential valgrind -y
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/GiuTP/Algoritmos-Estrutura-De-Dados-III.git
-   cd Algoritmos-Estrutura-De-Dados-III
+   git clone https://github.com/GiuTP/Red-and-Hashed.git
+   cd Red-and-Hashed
    ```
 
 2. Acesse o diretório do TAD desejado e compile:
@@ -179,7 +179,7 @@ Giuliano Tavares — [github.com/GiuTP](https://github.com/GiuTP)
 
 E-Mail: giulianotpt@gmail.com
 
-Link do projeto: [https://github.com/GiuTP/Algoritmos-Estrutura-De-Dados-III](https://github.com/GiuTP/Algoritmos-Estrutura-De-Dados-III)
+Link do projeto: [https://github.com/GiuTP/Red-and-Hashed](https://github.com/GiuTP/Red-and-Hashed)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -195,12 +195,12 @@ Link do projeto: [https://github.com/GiuTP/Algoritmos-Estrutura-De-Dados-III](ht
 ---
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[stars-shield]: https://img.shields.io/github/stars/GiuTP/Algoritmos-Estrutura-De-Dados-III.svg?style=for-the-badge
-[stars-url]: https://github.com/GiuTP/Algoritmos-Estrutura-De-Dados-III/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GiuTP/Algoritmos-Estrutura-De-Dados-III.svg?style=for-the-badge
-[issues-url]: https://github.com/GiuTP/Algoritmos-Estrutura-De-Dados-III/issues
-[license-shield]: https://img.shields.io/github/license/GiuTP/Algoritmos-Estrutura-De-Dados-III.svg?style=for-the-badge
-[license-url]: https://github.com/GiuTP/Algoritmos-Estrutura-De-Dados-III/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/GiuTP/Red-and-Hashed.svg?style=for-the-badge
+[stars-url]: https://github.com/GiuTP/Red-and-Hashed/stargazers
+[issues-shield]: https://img.shields.io/github/issues/GiuTP/Red-and-Hashed.svg?style=for-the-badge
+[issues-url]: https://github.com/GiuTP/Red-and-Hashed/issues
+[license-shield]: https://img.shields.io/github/license/GiuTP/Red-and-Hashed.svg?style=for-the-badge
+[license-url]: https://github.com/GiuTP/Red-and-Hashed/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/giuliano-tavares/
 [C-badge]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
