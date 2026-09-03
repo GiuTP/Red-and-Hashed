@@ -175,7 +175,7 @@ O código-fonte deste projeto está distribuído sob a licença **MIT**. Consult
 
 ## 📬 Contato
 
-Giuliano Tavares — [github.com/GiuTP](https://github.com/GiuTP)
+GiuTP — [github.com/GiuTP](https://github.com/GiuTP)
 
 E-Mail: giulianotpt@gmail.com
 
